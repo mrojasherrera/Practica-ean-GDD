@@ -1,0 +1,23 @@
+---
+PRACTICA CLASE 01
+---
+
+INTRODUCCIÓN
+Como se observa en la bibliografia para base de datos distribuida, este es
+un tema ámplio y que involucra una serie de conceptos aplicabes tanto a
+las bases de dtos como a las tablas o elementos semejantes de acuerdo al
+tipo de base de datos de la que se trate.
+
+Los principales situaciones a tratar se refieren a volúmen, perfomance,
+acoplamiento.
+
+OBJETIVO GENERAL DE ESTA PRÁCTICA
+-------------------------
+Implementar un ambiente que permita realizar crud con tablas particinadas
+y replicación.
+
+OBJETIOS PARTICULARES DE ESTA PRÁCTICA
+--------------------------------------
+1.- Instalar un servidor MARIADB
+2.- Crear una tabla particionada
+3.- Efectuar operaciones básica (CRUD) sobre dicha tabla
